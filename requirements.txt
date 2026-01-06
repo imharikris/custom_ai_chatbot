@@ -1,0 +1,10 @@
+streamlit
+faiss-cpu
+openai
+numpy
+tiktoken
+python-dotenv
+requests
+beautifulsoup4
+pdfplumber
+langdetect
