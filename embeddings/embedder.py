@@ -1,6 +1,6 @@
 import json
 import os
-from config import  client, EMBEDDING_MODEL
+from config  import  client, EMBEDDING_MODEL
 
 def embed_text(texts):
     embeddings = []
