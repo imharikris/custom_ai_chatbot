@@ -8,3 +8,5 @@ requests
 beautifulsoup4
 pdfplumber
 langdetect
+google-genai
+google-genai
